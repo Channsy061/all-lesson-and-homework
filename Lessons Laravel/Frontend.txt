@@ -1,0 +1,4 @@
+- Blade Templates
+- Localization
+- Frontend Scaffolding
+- Compiling Assets

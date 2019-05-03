@@ -17,7 +17,8 @@
         font-size:17px;
     }
   </style>
-
+</head>
+<body>
 <?php include('header.php') ?>
 <div class="container">
     <div class="bg-primary" id="content">
